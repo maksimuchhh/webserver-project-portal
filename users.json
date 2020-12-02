@@ -13,8 +13,8 @@
     "contacts": []
   },
   "1": {
-    "userId": "",
-    "login": "Максимусb",
+    "userId": "d0cc5079-d6bb-4aea-b97f-3b80b77093bd",
+    "login": "Максимуc",
     "password": "15banan15",
     "nickname": "",
     "firstName": "",
@@ -26,47 +26,8 @@
     "contacts": []
   },
   "2": {
-    "userId": "",
-    "login": "Максимусbs",
-    "password": "15banan15",
-    "nickname": "",
-    "firstName": "",
-    "lastName": "",
-    "imageURL": "",
-    "status": "",
-    "skills": [],
-    "aboutMe": "",
-    "contacts": []
-  },
-  "3": {
-    "userId": "",
-    "login": "Максимусbss",
-    "password": "15banan15",
-    "nickname": "",
-    "firstName": "",
-    "lastName": "",
-    "imageURL": "",
-    "status": "",
-    "skills": [],
-    "aboutMe": "",
-    "contacts": []
-  },
-  "4": {
-    "userId": "",
-    "login": "Максимусbsss",
-    "password": "15banan15",
-    "nickname": "",
-    "firstName": "",
-    "lastName": "",
-    "imageURL": "",
-    "status": "",
-    "skills": [],
-    "aboutMe": "",
-    "contacts": []
-  },
-  "5": {
-    "userId": "",
-    "login": "Максимусbsssss",
+    "userId": "49fd3abc-bf31-4c31-9819-454123987c4c",
+    "login": "Максимуcs",
     "password": "15banan15",
     "nickname": "",
     "firstName": "",

@@ -1,6 +1,6 @@
 const { request } = require("express");
 const jsonfile = require("jsonfile");
-
+const { v4: uuidv4 } = require("uuid");
 const file = "./users.json";
 
 const objectFromFile = jsonfile.readFileSync(file);
@@ -77,6 +77,7 @@ const router = (app) => {
       objectFromFile[Object.keys(objectFromFile).length] = {
         ...userTemplateObj,
         ...register,
+        userId: uuidv4(),
       };
       jsonfile.writeFileSync(file, objectFromFile, { spaces: 2 });
       response.status(201).send(true);
