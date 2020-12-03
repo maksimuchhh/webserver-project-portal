@@ -1,6 +1,6 @@
 {
   "0": {
-    "userId": "",
+    "userId": "123",
     "login": "",
     "password": "",
     "nickname": "",
@@ -13,9 +13,9 @@
     "contacts": []
   },
   "1": {
-    "userId": "d0cc5079-d6bb-4aea-b97f-3b80b77093bd",
-    "login": "Максимуc",
-    "password": "15banan15",
+    "userId": "73dec26e-6dc5-483b-a335-41c8c9a2f4e7",
+    "login": "maksimuchh",
+    "password": "140201maks",
     "nickname": "",
     "firstName": "",
     "lastName": "",
@@ -26,9 +26,22 @@
     "contacts": []
   },
   "2": {
-    "userId": "49fd3abc-bf31-4c31-9819-454123987c4c",
-    "login": "Максимуcs",
-    "password": "15banan15",
+    "userId": "60d5d15b-110f-4087-a91c-be38c547b329",
+    "login": "maksimuchhh",
+    "password": "140201maks",
+    "nickname": "",
+    "firstName": "",
+    "lastName": "",
+    "imageURL": "",
+    "status": "",
+    "skills": [],
+    "aboutMe": "",
+    "contacts": []
+  },
+  "3": {
+    "userId": "f7da2acf-b807-43d9-898c-a0e4140a6e5a",
+    "login": "maksimk",
+    "password": "140201maks",
     "nickname": "",
     "firstName": "",
     "lastName": "",
